@@ -14,7 +14,7 @@ for(let i= 0; i< 10; i++){
    numeri.push(parseFloat(numero))
    somma += numeri[i]
 }
-risultato.innerHTML= `La somma é ${somma}`
+risultato.innerHTML= `La somma dei numeri che hai inserito é ${somma}`
 
 
 

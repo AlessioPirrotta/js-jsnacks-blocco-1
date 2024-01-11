@@ -4,7 +4,7 @@
 
 let numeri = []
 let risultato = document.getElementById("rs")
-let risultatoCubi = "I cubi "
+let risultatoCubi = "Il cubo dei numeri che hai inserito: "
 
 for(let i= 0; i< 3; i++){
    let numero= prompt("scrivi un numero")
